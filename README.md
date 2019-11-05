@@ -11,3 +11,5 @@ Getting started with the project:
 2) Run the project.
 
 3) Access API using the details in the documentation 
+
+NOTE: The Word documents have been creted using the word 2013 in case there is a problem opening it in the newer version of word.
